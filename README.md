@@ -1,14 +1,52 @@
-### Hi there 👋
+# 👋 Hola, soy Alessandro González
 
-<img src="Java.png?raw=true" width="500px" padding= "15px">
-**AlessoGonzalez/AlessoGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<em><a href="https://github.com/Eduardlink/sky_line.git">Turismo SkyLine</a></em>
+🎓 Ingeniero de Software en la Universidad Técnica de Ambato.
 
-Here are some ideas to get you started:
+💻 Apasionado por el desarrollo de software, aplicaciones web y móviles, bases de datos y tecnologías modernas.
 
-- 🔭 I’m currently working on ... Estudiante de la Universidad Técnica de Ambato
-- 🌱 I’m currently learning ... Manejo y Configuración de Git
-- 🤔 I’m looking for help with ...Tratando de comprender del mundo git
-- 📫 How to reach me: ...+593987140195 WPP 
-- 😄 Pronouns: ... Chando
-- ⚡ Fun fact: ... Tengo Fobia a las agujas pero tengo más aretes que materias pasadas
+🚀 Actualmente trabajo con:
+- Angular
+- NestJS
+- Ionic
+- Firebase
+- PHP
+- MySQL
+- JavaScript
+- TypeScript
+
+📚 Interesado en:
+- Desarrollo Full Stack
+- Aplicaciones móviles
+- Arquitectura de software
+- Bases de datos
+- Inteligencia Artificial
+
+## 🛠️ Tecnologías
+
+Frontend:
+Angular • HTML • CSS • Bootstrap • JavaScript • TypeScript
+
+Backend:
+NestJS • Node.js • PHP • Express
+
+Bases de Datos:
+MySQL • Firebase Firestore • MongoDB
+
+Herramientas:
+Git • GitHub • Visual Studio Code • XAMPP • Postman
+
+## 📌 Proyectos Destacados
+
+🔹 Sistema de Gestión de Lavado de Vehículos
+- Angular + PHP + MySQL
+
+🔹 Sistema de Gestión Académica Móvil
+- Ionic + Firebase
+
+🔹 Sistema de Inventario y Mantenimiento
+- Angular + Spring Boot
+
+## 📫 Contacto
+
+📧 agonzalez4684@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/alessandro-gonz%C3%A1lez-91a80b2a1/?skipRedirect=true
